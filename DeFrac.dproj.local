@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.254,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Unit1.dfm=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\ChngCoordDialogUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Unit1.dfm=C:\Users\ilyav\source\Delphi\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Win32\Debug\fragment.fs</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.254,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Unit1.pas=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\ChngCoordDialogUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.848,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Unit1.pas=C:\Users\ilyav\source\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.941,C:\Users\ilyav\source\Delphi\MyUnit.pas=C:\Users\ilyav\source\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.760,=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Unit2.pas=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Vector3f.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.633,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Unit2.pas=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\MyMatrix3f.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Vector3f.pas=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\MyVector3f.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\MainUnit.pas=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.784,=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.339,=C:\Users\ilyav\source\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.871,=C:\Users\ilyav\source\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Win32\Debug\vertex.vs</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.982,=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\dglOpenGL.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.050,=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\dglOpenGL.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.391,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\dglOpenGL.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,C:\Users\ilyav\source\Delphi\Project1.dproj=C:\Users\ilyav\source\Delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\MainUnit.dfm=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Project1.dproj=C:\Users\ilyav\source\Delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\MyList.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\MyList.pas=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\SceneParamList.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.524,C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\DeFrac.dproj=C:\Users\ilyav\OneDrive\Рабочий стол\Курсач\Сам проект\Project1.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Win32"/>
+    <File Path="Win32\Debug"/>
+    <File Path="Win32\Debug\fragment.fs"/>
+    <File Path="Win32\Debug\vertex.vs"/>
+    <File Path="MainUnit.pas"/>
+    <File Path="MainUnit.dfm"/>
+    <File Path="dglOpenGL.pas"/>
+    <File Path="MyVector3f.pas"/>
+    <File Path="ChngCoordDialogUnit.pas"/>
+    <File Path="ChngCoordDialogUnit.dfm"/>
+    <File Path="SceneParamList.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

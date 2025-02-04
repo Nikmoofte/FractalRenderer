@@ -1,0 +1,21 @@
+object Window: TWindow
+  Left = 0
+  Top = 0
+  Caption = 'Window'
+  ClientHeight = 1041
+  ClientWidth = 1904
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  OnCreate = FormCreate
+  OnKeyPress = KeyCheck
+  OnPaint = FormPaint
+  OnResize = FormResize
+  PixelsPerInch = 96
+  TextHeight = 13
+end
